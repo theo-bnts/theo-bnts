@@ -4,7 +4,7 @@
 - 🔥 19 ans
 - 🏘️ Amiens
 - ❤️ Passioné d'informatique
-- 🎓 Étudiant en DUT Informatique l'IUT d'Amiens
+- 🎓 Étudiant en LP RGI à l'IUT d'Amiens
 
 
 ### Mes statistiques
