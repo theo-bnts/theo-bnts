@@ -1,7 +1,7 @@
 ## Bienvenue sur mon GitHub !
 
 ### Mon profil
-- 🔥 19 ans
+- 🔥 20 ans
 - 🏘️ Amiens
 - ❤️ Passioné d'informatique
 - 🎓 Étudiant en LP RGI à l'IUT d'Amiens
