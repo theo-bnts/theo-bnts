@@ -1,7 +1,7 @@
 ## Bienvenue sur mon GitHub !
 
 ### Mon profil
-- 🎈 21 ans
+- 🎈 22 ans
 - 📍 Amiens
 - 🎓 Master MIAGE
 - ❤️ Passioné d'informatique
